@@ -126,7 +126,7 @@ If you find this course helpful, please **star this repository** ⭐ and share i
 
 ---
 
-### 🎈 ASCII Art to Make It Pop
+
 
 ```
    🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
